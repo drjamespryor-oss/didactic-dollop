@@ -1,0 +1,24 @@
+ Parameters
+bioguide_id
+string
+Congressperson's BioGuide id
+
+cycle
+string
+Filter donors by election cycle (e.g., 2024)
+
+page
+integer
+Page number
+
+page_size
+integer
+Items / page
+
+ticker
+string
+Ticker for any given stock
+
+transaction_tp
+string
+Filter by FEC transaction type code (e.g. 24K = contribution to candidate, 24E = independent expenditure). See FEC transaction type codes for full list
