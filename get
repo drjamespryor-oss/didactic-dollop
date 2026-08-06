@@ -1,0 +1,1 @@
+Returns a paginated bulk of all PAC donations to politicians. Filter by ticker, bioguide ID, election cycle, or FEC transaction type code. Ordered by most recent transaction date
